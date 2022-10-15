@@ -1,0 +1,11 @@
+.card{
+    border-style:solid;
+    border-color: darkturquoise;
+  }
+  .card-title{
+    color: darkturquoise;
+  }
+  .card-text{
+    color: darkturquoise;
+  }
+  
